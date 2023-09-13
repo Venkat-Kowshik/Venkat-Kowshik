@@ -1,7 +1,7 @@
-<img src="https://images.app.goo.gl/eDqhV7AfB8bC9xYj9">
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kowshik</h1>
 <h3 align="center">Passionate Tech👨🏽‍💻Enthu present somewhere on Earth🌏</h3>
-<img align="right" alt="C0ding" width="400" src="https://images.app.goo.gl/79U5JmURdvdc6BkQ9">
+<img align="right" alt="C0ding" width="400" src="https://dribbble.com/shots/22544764-Git-banner">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat-kowshik&label=Profile%20views&color=0e75b6&style=flat" alt="venkat-kowshik" /> </p>
 
