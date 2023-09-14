@@ -1,6 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Kowshik</h1>
-<h3 align="center">Passionate Tech👨🏽‍💻Enthu present somewhere on Earth🌏</h3>
+
+<h1 align="center">Hi 👋, I'm K0w$hik</h1>
+<h3 align="center">Passionate TechEnthu👨🏽‍💻 present somewhere on Earth🌏</h3>
 <img align="right" alt="C0ding" width="400" src="https://dribbble.com/shots/22544764-Git-banner">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat-kowshik&label=Profile%20views&color=0e75b6&style=flat" alt="venkat-kowshik" /> </p>
