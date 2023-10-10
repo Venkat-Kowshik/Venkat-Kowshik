@@ -3,7 +3,7 @@
 <h3 align="center">Passionate TechEnthu👨🏽‍💻 present somewhere on Earth🌏</h3>
 <img align="right" alt="C0ding" width="400" src="https://dribbble.com/shots/22544764-Git-banner">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat-kowshik&label=Profile%20views&color=0e75b6&style=flat" alt="venkat-kowshik" /> </p>
+<p align="left"> <img src="https://holopin.io/@venkatkowshik" alt="venkat-kowshik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat-kowshik" alt="venkat-kowshik" /></a> </p>
 
