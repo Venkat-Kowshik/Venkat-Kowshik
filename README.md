@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm K0w$hik</h1>
 <h3 align="center">Passionate TechEnthu👨🏽‍💻 present somewhere on Earth🌏</h3>
-<img align="right" alt="C0ding" width="400" src="https://holopin.io/@venkatkowshik">
+<img align="right" alt="C0ding" width="400" src="https://holopin.me/venkatkowshik">
 
 <p align="left"> <img src="https://holopin.io/venkatkowshik" alt="venkat-kowshik" /> </p>
 
