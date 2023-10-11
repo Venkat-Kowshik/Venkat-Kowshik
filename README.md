@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm K0w$hik</h1>
 <h3 align="center">Passionate TechEnthu👨🏽‍💻 present somewhere on Earth🌏</h3>
-<img align="right" alt="C0ding" width="400" src="https://holopin.me/venkatkowshik">
+
 
 <p align="left"> <img src="https://holopin.io/venkatkowshik" alt="venkat-kowshik" /> </p>
 
@@ -36,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkat-kowshik&show_icons=true&locale=en" alt="venkat-kowshik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkat-kowshik&" alt="venkat-kowshik" /></p>
+<img align="right" alt="C0ding" width="auto-fill" src="https://holopin.me/venkatkowshik">
