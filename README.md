@@ -3,7 +3,6 @@
 <h3 align="center">Passionate TechEnthu👨🏽‍💻 present somewhere on Earth🌏</h3>
 
 
-<p align="left"> <img src="https://holopin.io/venkatkowshik" alt="venkat-kowshik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat-kowshik" alt="venkat-kowshik" /></a> </p>
 
