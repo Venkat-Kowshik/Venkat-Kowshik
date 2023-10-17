@@ -19,6 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kowshik72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kowshik72" height="30" width="40" /></a><br>
+<img align="right" alt="C0ding" width="auto-fill" src="https://holopin.me/venkatkowshik">
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/venkat-kowshik-144984230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkat-kowshik-144984230/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/storm_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/storm_7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/u4cse21271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/u4cse21271" height="30" width="40" /></a>
@@ -35,4 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkat-kowshik&show_icons=true&locale=en" alt="venkat-kowshik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkat-kowshik&" alt="venkat-kowshik" /></p>
-<img align="right" alt="C0ding" width="auto-fill" src="https://holopin.me/venkatkowshik">
+
