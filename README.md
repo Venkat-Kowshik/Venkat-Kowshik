@@ -34,7 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkat-kowshik&" alt="venkat-kowshik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkat-kowshik&show_icons=true&locale=en" alt="venkat-kowshik" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=venkat-kowshik&show_icons=true&locale=en" alt="venkat-kowshik" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkat-kowshik&show_icons=true&locale=en&layout=compact" alt="venkat-kowshik" /></p>
 
