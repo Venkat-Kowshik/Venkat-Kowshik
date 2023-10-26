@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat-kowshik" alt="venkat-kowshik" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=venkat-kowshik" alt="venkat-kowshik" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kowshik72" target="blank"><img src="https://img.shields.io/twitter/follow/kowshik72?logo=twitter&style=for-the-badge" alt="kowshik72" /></a> </p>
 
