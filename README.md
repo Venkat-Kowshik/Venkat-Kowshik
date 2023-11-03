@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm K0w$hik!!</h1>
 <h3 align="center">Passionate TechEnthu👨🏽‍💻 present somewhere on Earth🌏</h3>
   
-
+    
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=venkat-kowshik" alt="venkat-kowshik" /></a> </p>
 
